@@ -8,16 +8,16 @@ I build hands-on security projects and labs focused on **AWS security, IAM, clou
 
 ---
 
-## 🔐 Featured Projects
+## Featured Projects
 
-### ☁️ AWS Automated Key Remediation
+### AWS Automated Key Remediation
 Automated AWS IAM access-key remediation using Python and AWS services.
 
 **Focus:** AWS IAM · Lambda · Python · Security Automation · Incident Response
 
 [View Project](https://github.com/slethabo/AWS-automated-key-remediation)
 
-### 🛡️ AdSim Behavioral
+###  AdSim Behavioral
 A controlled security research project designed to simulate suspicious endpoint behavior and support detection engineering.
 
 **Focus:** Python · Detection Engineering · Threat Simulation · Security Research
@@ -26,7 +26,7 @@ A controlled security research project designed to simulate suspicious endpoint 
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 - CompTIA Security+
 - CompTIA A+
@@ -36,7 +36,7 @@ A controlled security research project designed to simulate suspicious endpoint 
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Cloud & Security
 - AWS
@@ -77,7 +77,7 @@ A controlled security research project designed to simulate suspicious endpoint 
 
 ---
 
-## 🧪 Labs & Hands-on Learning
+## Labs & Hands-on Learning
 
 I regularly build and document hands-on labs covering:
 
@@ -98,7 +98,7 @@ I regularly build and document hands-on labs covering:
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - AWS Cloud Security
 - Cloud Penetration Testing
@@ -108,7 +108,7 @@ I regularly build and document hands-on labs covering:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 📧 Email: sangwenilethabo680@gmail.com
 
