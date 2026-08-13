@@ -35,84 +35,18 @@ A controlled security research project designed to simulate suspicious endpoint 
 - AWS Security training — *in progress*
 
 ---
+##  Skills
 
-##  Technical Skills
-
-### Cloud & Security
-- AWS
-- IAM
-- CloudTrail
-- CloudWatch
-- Cloud Security
-- Incident Response
-- Security Monitoring
-- Vulnerability Assessment
-- Penetration Testing
-
-### Networking
-- TCP/IP
-- DNS
-- HTTP/HTTPS
-- Routing
-- NAT
-- Firewalls
-- Wireshark
-- Nmap
-
-### Security Tools
-- Burp Suite
-- Nmap
-- Gobuster
-- Wireshark
-- Kali Linux
-- TryHackMe
-- PwnedLabs
-
-### Programming & Automation
-- Python
-- Java
-- Bash
-- SQL
-- Git/GitHub
-
----
-
-## Labs & Hands-on Learning
-
-I regularly build and document hands-on labs covering:
-
-- AWS Cloud Security
-- IAM Security
-- Cloud Incident Response
-- Penetration Testing
-- Vulnerability Assessment
-- Detection Engineering
-- Linux & Networking
-- Security Automation
-
-**Platforms:**
-- PwnedLabs
-- TryHackMe
-- AWS Skill Builder
-- Microsoft Learn
-
----
-
-##  Currently Learning
-
-- AWS Cloud Security
-- Cloud Penetration Testing
-- Security Engineering
-- Detection Engineering
-- AI Security
-
----
-
+** Cloud:** AWS · IAM · CloudTrail · CloudWatch  
+** Security:** Penetration Testing · Cloud Security · Incident Response · Security Monitoring  
+** Networking:** TCP/IP · DNS · HTTP/HTTPS · Routing · NAT · Firewalls  
+** Programming:** Python · Bash · SQL · Git  
+** Tools:** Burp Suite · Nmap · Wireshark · Kali Linux
 ##  Contact
 
-📧 Email: sangwenilethabo680@gmail.com
+ Email: sangwenilethabo680@gmail.com
 
-💼 LinkedIn: 
+ LinkedIn: https://www.linkedin.com/lethabo-sangweni 
 
 ---
 
