@@ -28,20 +28,17 @@ A controlled security research project designed to simulate suspicious endpoint 
 
 ##  Certifications
 
-- CompTIA Security+
-- CompTIA A+
+- CompTIA Security+ , A+
 - ISC2 Certified in Cybersecurity (CC)
-- Microsoft Security certifications — *in progress*
 - AWS Security training — *in progress*
-
 ---
 ##  Skills
 
-** Cloud:** AWS · IAM · CloudTrail · CloudWatch  
-** Security:** Penetration Testing · Cloud Security · Incident Response · Security Monitoring  
-** Networking:** TCP/IP · DNS · HTTP/HTTPS · Routing · NAT · Firewalls  
-** Programming:** Python · Bash · SQL · Git  
-** Tools:** Burp Suite · Nmap · Wireshark · Kali Linux
+**Cloud:** AWS · IAM · CloudTrail · CloudWatch  
+**Security:** Penetration Testing · Cloud Security · Incident Response · Security Monitoring  
+**Networking:** TCP/IP · DNS · HTTP/HTTPS · Routing · NAT · Firewalls  
+**Programming:** Python · Bash · SQL · Git  
+**Tools:** Burp Suite · Nmap · Wireshark · Kali Linux
 ##  Contact
 
  Email: sangwenilethabo680@gmail.com
