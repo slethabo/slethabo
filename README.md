@@ -1,8 +1,4 @@
-Hello from the land of buttons and pixels!
-
-I'm Lethabo Jr Pentester.
-I'm currently pursuing a career in ethical hacking, fueled by a passion for offensive security. 
-I’m also gaining hands-on experience through the MRW virtual internship program.
+Final-year Computer Science student with hands-on experience in cybersecurity, penetration testing, and cloud security. I focus on securing AWS environments through IAM, cloud attack and defense, incident response, and security automation.
 
 Unpopular Opinion:
 > if (fruit.name == "strawberry")
