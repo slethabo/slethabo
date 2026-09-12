@@ -9,7 +9,7 @@ I build hands-on security projects and labs focused on **AWS security, IAM, clou
 ---
 
 ## Featured Projects
-**Porfolio:** https://portfolio-ez7766l1w-lee-1a33.vercel.app/ 
+**Porfolio:** https://slethabo.github.io/portfolio/  
 
 ### AWS Automated Key Remediation
 Automated AWS IAM access-key remediation using Python and AWS services.
