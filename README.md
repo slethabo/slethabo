@@ -23,7 +23,7 @@ A controlled security research project designed to simulate suspicious endpoint 
 
 **Focus:** Python · Detection Engineering · Threat Simulation · Security Research
 
-[View Project](https://github.com/slethabo/AdSim-Behavioral)
+[View Project](https://github.com/slethabo/in/AdSim-Behavioral)
 
 ---
 
